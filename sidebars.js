@@ -1,7 +1,7 @@
 module.exports = {
   mySidebar: [
     'index',
-	'installation'
+	'installation',
 	'agent-definition',
 	'task-definition',
   ],
