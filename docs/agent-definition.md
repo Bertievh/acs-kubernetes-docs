@@ -84,5 +84,8 @@ Items defined in red are required values (note : global properties are supported
    - In the **Config Script** section select the script containing the .kube/config information.
     - In the **Retain Log files** field enter the vault indicating how long log files should be retained.  
 6.  Save the definition changes. 
-7.  Start the connection by selecting the **Change Communication Status** button and selecting **Enable Full Comm.**. 
+7.  Now select **Communication Settings**
+    Ensure that the **Requires XML Escape Sequences: User-Defined** field is set to **True**. 
+    If not change the field and save the definition changes.
+8.  Start the connection by selecting the **Change Communication Status** button and selecting **Enable Full Comm.**. 
 
